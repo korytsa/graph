@@ -1,0 +1,9 @@
+{
+  "title": "react-d3-graph demo",
+  "dependencies": {
+    "react-dom": "latest",
+    "react-d3-graph": "latest",
+    "react": "latest",
+    "d3": "5.5.0"
+  }
+}
